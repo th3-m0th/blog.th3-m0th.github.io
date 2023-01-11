@@ -5,7 +5,8 @@ order: 4
 ---
 
 # Sobre mí y este blog
-Hola, soy **th3_m0th** y este es mi blog. El blog estará relacionado con el arte de la programación y pentesting ya que son dos cosas en las que estoy muy interesado. Siempre me ha interesado entender el porqué de las cosas y como funcionan. Desde que puse las manos por primera vez sobre un ordenador formulé innumerables preguntas y aunque aún me asaltan algunas dudas, hago lo posible por resolverlas. Empecé a programar hace unos años y es una de las actividades que más disfruto y que aunque pueda llegar a ser estresante de vez en cuando es algo que me encanta y que me llevaría todo el día haciendo. Tengo una sensación parecida al aprender sobre pentesting, me parece un tópico muy interesante y del que me gustaría llegar a aprender más.
+Hola, soy **th3_m0th** y este es mi blog.<br> 
+El blog estará relacionado con el arte de la programación y pentesting ya que son dos cosas en las que estoy muy interesado. Siempre me ha interesado entender el porqué de las cosas y como funcionan. Desde que puse las manos por primera vez en un ordenador me formulé innumerables preguntas y aunque actualmente aún me asaltan algunas dudas, hago lo posible por resolverlas. <br>Empecé a programar hace unos años y es una de las actividades que más disfruto y que aunque pueda llegar a ser estresante de vez en cuando es algo que me encanta y que me llevaría todo el día haciendo. Tengo una sensación parecida al aprender sobre pentesting, me parece un tópico muy interesante y del que me gustaría llegar a aprender más.
 
 ## Lenguajes que domino:
 - Golang
