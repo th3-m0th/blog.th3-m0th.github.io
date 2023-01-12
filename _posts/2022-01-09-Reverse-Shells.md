@@ -34,8 +34,14 @@ curl -s -o scancode-ascii-table.h https://raw.githubusercontent.com/Dasor/digisp
 {: .prompt-info }
 
 Luego deberemos reemplazar los archivos que acabamos de descargar por los de la librería DigisparkKeyboard. Solo tendríamos que reemplazar los archivos en 
-`(Linux) $HOME/.arduino/packages/digistump/hardware/avr/(versión)/libraries/DigisparkKeyboard/`
-`(Windows) C:\Users\(NombreDeUsuario)\AppData\Local\Arduino15\packages\digistump\hardware\avr\(version)\libraries\DigisparkKeyboard\`
+<br>
+```
+(Linux) $HOME/.arduino/packages/digistump/hardware/avr/(versión)/libraries/DigisparkKeyboard/
+```
+<br>
+```
+(Windows) C:\Users\(NombreDeUsuario)\AppData\Local\Arduino15\packages\digistump\hardware\avr\(version)\libraries\DigisparkKeyboard\
+```
 
 Con esto ya podemos explotar sistemas españoles(o usando una distribución de teclado española).
 
