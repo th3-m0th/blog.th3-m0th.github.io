@@ -38,7 +38,6 @@ Luego deberemos reemplazar los archivos que acabamos de descargar por los de la 
 ```
 (Linux) $HOME/.arduino/packages/digistump/hardware/avr/(versión)/libraries/DigisparkKeyboard/
 ```
-<br>
 ```
 (Windows) C:\Users\(NombreDeUsuario)\AppData\Local\Arduino15\packages\digistump\hardware\avr\(version)\libraries\DigisparkKeyboard\
 ```
