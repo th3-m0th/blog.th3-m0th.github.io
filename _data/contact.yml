@@ -14,6 +14,10 @@
   type: gitlab
   icon: 'fab fa-gitlab'
   noblank: true
+-
+  type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/alonso-fern%C3%A1ndez-4b398a263?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFD8NVkCPQtGqEEek1o5xqg%3D%3D'                  # Fill with your Linkedin homepage
 
 # Uncomment and complete the url below to enable more contact options
 # -

@@ -24,13 +24,13 @@ title: th3_m0th                          # the main title
 tagline: Software developer and pentester amateur   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Blog sobre ciberseguridad, programación y pentesting en general. Aquí publico mis paranoias varias, espero que sean de tu agrado.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: 404a10             # change to your github username
+  username: th3_m0th             # change to your github username
 
 twitter:
   username: th3_m0th            # change to your twitter username
@@ -46,7 +46,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/th3_m0th      # change to your twitter homepage
-    - https://github.com/404a10       # change to your github homepage
+    - https://github.com/th3-m0th       # change to your github homepage
     - https://gitlab.com/th3-m0th
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
